@@ -1,0 +1,142 @@
+body{
+background:#EDE6DB
+}
+
+span{
+  font-style: italic;
+  font-weight: lighter;
+}
+
+img {
+  max-width: 20%;
+  height: auto;
+}
+
+h1{
+  font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 22px;
+}
+
+ul{
+  font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 18px;
+}
+
+h2{
+  font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 20px;
+}
+
+p
+{
+  font-family: Comfortaa;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+margin: 0 auto;
+}
+
+
+header{
+  position: absolute;
+width: 157px;
+height: 67px;
+left: 106px;
+top: 40px;
+padding: 5px;
+border-bottom-style: solid;
+border-bottom-color: rgba(122, 79, 124, 1);
+}
+
+.w3docs_tool_circle {
+   width: 85px;
+   height: 85px;
+   background-color:rgba(122, 79, 124, 1);
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+}
+
+.info{
+  position: absolute;
+width: 195px;
+height: 95px;
+padding: 5px;
+left: 15px;
+top: 123px;
+padding: 5px;
+margin-bottom: 30px;
+}
+
+.work{
+  position: absolute;
+width: 200px;
+height: 330px;
+padding: 5px;
+left: 15px;
+top: 245px;
+text-align: right;
+border-right-style: solid;
+border-right-color: rgba(122, 79, 124, 1);
+
+margin-top: 30px;
+margin-left: 4%;
+}
+
+.w3docs_tool_rect_v {
+   width: 8px;
+   height: 470px;
+   background-color: rgba(122, 79, 124, 1);
+}
+
+.scholar{
+  position: absolute;
+width: 180px;
+height: 459px;
+padding: 5px;
+left: 239px;
+top: 118px;
+border-left-style: solid;
+border-left-color: rgba(122, 79, 124, 1);
+margin-left: 5%;
+}
+
+.skill{
+  position: absolute;
+  text-align: right;
+  width: 160px;
+  height: 120px;
+  border: 3px solid;
+  border-color: rgba(122, 79, 124, 1);
+  margin-left: 7%;
+  margin-top: 15%;
+  padding: 5px;
+  left: 459px;
+top: 380px;
+}
+
+footer{
+  position: absolute;
+  width: 595px;
+  height: 430px;
+  padding: 5px;
+
+margin-left: 0;
+margin-top: 15%;
+
+  left: 16px;
+  top: 605px;
+
+background: #C0A5C6
+}
