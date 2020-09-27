@@ -59,15 +59,6 @@ border-bottom-style: solid;
 border-bottom-color: rgba(122, 79, 124, 1);
 }
 
-.w3docs_tool_circle {
-   width: 85px;
-   height: 85px;
-   background-color:rgba(122, 79, 124, 1);
-   -moz-border-radius: 50%;
-   -webkit-border-radius: 50%;
-   border-radius: 50%;
-}
-
 .info{
   position: absolute;
 width: 195px;
